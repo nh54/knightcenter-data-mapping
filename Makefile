@@ -1,2 +1,5 @@
-# Here's where we'll put our Make commands
+directories:
+	-mkdir temp
+	-mkdir data
+	
 
